@@ -1,0 +1,22 @@
+{
+  "name": "yeargun",
+  "version": "0.0.1",
+  "description": "hard config files for hard people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeargun/hard-config.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "yeargun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeargun/hard-config/issues"
+  },
+  "homepage": "https://github.com/yeargun/hard-config#readme"
+}
